@@ -1,8 +1,8 @@
 # Gizlilik Politikası
 
-Son güncelleme: 2026-10-24
+Son güncelleme: 2026-10-26
 
-Bu politika, Aslan ("biz") tarafından yayınlanan **Form Autofill**, **Auto Refresh & Page Watch** ve **Tab Vault** Chrome eklentilerini kapsar. [English](privacy-policy)
+Bu politika, Aslan ("biz") tarafından yayınlanan **Form Autofill**, **Auto Refresh** ve **Tab Vault** Chrome eklentilerini kapsar. [English](privacy-policy)
 
 ## Kısaca
 
@@ -14,8 +14,8 @@ Bu politika, Aslan ("biz") tarafından yayınlanan **Form Autofill**, **Auto Ref
 
 | Eklenti | Ne saklar (yalnızca tarayıcında) | Web sayfalarını ne zaman okur |
 |---|---|---|
-| Form Autofill | Oluşturduğun kurallar: alan adları ya da desenleri, doldurulacak değerler (kaydetmeyi seçtiğin adın, e-posta adresin ya da posta adresin gibi kişisel bilgiler olabilir) ve geçerli oldukları siteler; ayarların. | Yalnızca Doldur'a ya da Bu formu kaydet'e tıkladığında (veya kısayolu, sağ tık menüsünü kullandığında) ya da otomatik doldurmayı açtığın bir sitede sayfa yüklendiğinde. Şifre alanları asla okunmaz ve doldurulmaz; kart numaraları asla kaydedilmez. |
-| Auto Refresh & Page Watch | Zamanlayıcıların (sekmenin adresi ve başlığı, aralık, beklediğin yazı) ve ayarların. | Yalnızca izlemeyi başlattığın sekmelerde, her yenilemeden sonra, istediğin yazıyı aramak için. Sayfa metni cihazında karşılaştırılır ve saklanmaz. |
+| Form Autofill | Oluşturduğun kurallar: alan adları ya da desenleri, doldurulacak değerler (kaydetmeyi seçtiğin adın, e-posta adresin ya da posta adresin gibi kişisel bilgiler olabilir) ve geçerli oldukları siteler; ayarların; yalnızca senden bir kez puan istemek için kaç form doldurduğu. | Yalnızca Doldur'a ya da Bu formu kaydet'e tıkladığında (veya kısayolu, sağ tık menüsünü kullandığında) ya da otomatik doldurmayı açtığın bir sitede sayfa yüklendiğinde. Şifre alanları asla okunmaz ve doldurulmaz; kart numaraları asla kaydedilmez. |
+| Auto Refresh | Zamanlayıcıların (sekmenin adresi ve başlığı, aralık, beklediğin yazı) ve ayarların; yalnızca senden bir kez puan istemek için kaç zamanlayıcı başlattığın ve kaç alarm aldığın. | Yalnızca izlemeyi başlattığın sekmelerde, her yenilemeden sonra, istediğin yazıyı aramak için. Sayfa metni cihazında karşılaştırılır ve saklanmaz. |
 | Tab Vault | Kaydettiğin sekmelerin adresleri ve başlıkları, oluşturduğun gruplar, çöp kutusu ve her güncellemeden önce alınan otomatik kopyalar; ayarların. Gizli (incognito) pencerelerdeki sekmeler asla kaydedilmez. | Yalnızca sekmeleri kaydettiğinde, adreslerini ve başlıklarını okumak için. |
 
 ## Ağ
