@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 2026-10-26
+Last updated: 2026-10-28
 
 This policy covers the Chrome extensions **Form Autofill**, **Auto Refresh** and **Tab Vault**, published by Aslan ("we"). [Türkçe](gizlilik-politikasi)
 
@@ -14,7 +14,7 @@ This policy covers the Chrome extensions **Form Autofill**, **Auto Refresh** and
 
 | Extension | What it stores (only in your browser) | When it reads web pages |
 |---|---|---|
-| Form Autofill | The rules you create: field names or patterns, the values to fill (which may include personal details you choose to save, such as your name, email address or postal address) and the sites they apply to; your settings; how many forms it has filled, only to ask you once for a rating. | Only when you click Fill or Save this form (or use the shortcut or right-click menu), or when a page loads on a site for which you turned on automatic filling. Password fields are never read or filled; card numbers are never saved. |
+| Form Autofill | The rules you create: field names or patterns, the values to fill (which may include personal details you choose to save, such as your name, email address or postal address) and the sites or pages they apply to; your settings; how many forms it has filled, only to ask you once for a rating. | Only when you click Fill or Save this form (or use the shortcut or right-click menu), or when a page loads on a site for which you turned on automatic filling. Password fields are never read or filled; card numbers are never saved. |
 | Auto Refresh | Your timers (the tab's address and title, the interval, the text you watch for) and your settings; how many timers you started and alerts you got, only to ask you once for a rating. | Only on the tabs where you started watching, after each reload, to check for the text you asked for. The page text is compared on your device and is not stored. |
 | Tab Vault | The addresses and titles of the tabs you save, the groups you create, the trash and automatic copies made before each update; your settings. Tabs in private (incognito) windows are never saved. | Only when you save tabs, to read their address and title. |
 
