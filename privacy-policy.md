@@ -4,6 +4,8 @@ Last updated: 2026-10-28
 
 This policy covers the Chrome extensions **Form Autofill**, **Auto Refresh** and **Tab Vault**, published by Aslan ("we"). [Türkçe](gizlilik-politikasi)
 
+**SkinTally** has [its own privacy policy](skintally/privacy-policy), because it requests public price and exchange-rate data.
+
 ## In short
 
 - The extensions work **only on your device**. They never send your data to us or to anyone else: there are no servers, no accounts, no analytics, no ads, no tracking and no remotely loaded code.

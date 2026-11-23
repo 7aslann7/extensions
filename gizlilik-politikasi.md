@@ -4,6 +4,8 @@ Son güncelleme: 2026-10-28
 
 Bu politika, Aslan ("biz") tarafından yayınlanan **Form Autofill**, **Auto Refresh** ve **Tab Vault** Chrome eklentilerini kapsar. [English](privacy-policy)
 
+**SkinTally**'nin [kendi gizlilik politikası](skintally/gizlilik-politikasi) var, çünkü herkese açık fiyat ve kur verisi ister.
+
 ## Kısaca
 
 - Eklentiler **yalnızca cihazında** çalışır. Verini bize ya da başka birine asla göndermez: sunucu, hesap, analitik, reklam, izleme ve uzaktan yüklenen kod yoktur.
