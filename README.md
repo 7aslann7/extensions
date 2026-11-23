@@ -6,10 +6,10 @@ Small, private Chrome extensions that each solve one problem well. No accounts, 
 
 | | Extension | Status | |
 |:-:|---|---|---|
-| <img src="assets/skintally.png" width="48" alt=""> | **SkinTally** — your CS2 inventory and every trade, priced: what you'd actually pocket on each market, right inside Steam. | Coming soon | [Details](https://7aslann7.github.io/extensions/skintally/) · [Privacy](https://7aslann7.github.io/extensions/skintally/privacy-policy) |
+| <img src="assets/skintally.png" width="48" alt=""> | **SkinTally** — your CS2 inventory and every trade, priced: what you'd actually pocket on each market, right inside Steam. | In review | [Details](https://7aslann7.github.io/extensions/skintally/) · [Privacy](https://7aslann7.github.io/extensions/skintally/privacy-policy) |
 | <img src="assets/form-autofill.png" width="48" alt=""> | **Form Autofill** — fill the same web forms in one click, or automatically when the page opens, with your own rules. | Live | [Chrome Web Store](https://chromewebstore.google.com/detail/form-autofill-one-click-f/efdijodppmlpcmiliobpfojihojdhncf) · [Privacy](https://7aslann7.github.io/extensions/privacy-policy) |
-| <img src="assets/auto-refresh.png" width="48" alt=""> | **Auto Refresh** — reload tabs on a timer and get an alert when a page shows or loses the text you're waiting for. | Live | [Chrome Web Store](https://chromewebstore.google.com/detail/auto-refresh-reload-tabs/ijbblknjhimpmigdndbkglecianhnboe) · [Privacy](https://7aslann7.github.io/extensions/privacy-policy) |
-| <img src="assets/tab-vault.png" width="48" alt=""> | **Tab Vault** — save all your tabs in one click and restore them anytime, built so they are never lost. | Coming soon | [Privacy](https://7aslann7.github.io/extensions/privacy-policy) |
+| <img src="assets/auto-refresh.png" width="48" alt=""> | **Auto Refresh** — reload tabs on a timer and get an alert when a page shows or loses the text you're waiting for. | Unpublished | [Privacy](https://7aslann7.github.io/extensions/privacy-policy) |
+| <img src="assets/tab-vault.png" width="48" alt=""> | **Tab Vault** — save all your tabs in one click and restore them anytime, built so they are never lost. | On hold | [Privacy](https://7aslann7.github.io/extensions/privacy-policy) |
 
 ## SkinTally
 
@@ -33,11 +33,15 @@ Everyone shows prices. SkinTally shows what you'd actually pocket. It adds a cle
 
 ## Auto Refresh
 
+*Not on the Chrome Web Store at the moment.*
+
 - Reload any tab on a timer.
 - Watch for a piece of text and get an alert when it appears or disappears (stock, prices, results, appointments).
 - Works only on the tabs you choose; the page text is checked on your device and never stored.
 
 ## Tab Vault
+
+*On hold; not published yet.*
 
 - Save every open tab in one click and restore them anytime, in groups.
 - Built not to lose data: undo, a 30-day trash and a backup before every update.
