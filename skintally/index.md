@@ -6,7 +6,7 @@
 
 A free Chrome extension for Counter-Strike 2 players. It adds a clean value layer to Steam's own pages (your inventory, the trade offer window, your trade offers list and the Market pages of cases), and Steam's interface stays exactly as it is.
 
-**Status:** in review on the Chrome Web Store.
+**[Get it on the Chrome Web Store](https://chromewebstore.google.com/detail/dffchhcnaljdmddaaenngdcdldgmcakd)** — free.
 
 ## Your inventory
 
